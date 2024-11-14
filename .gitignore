@@ -1,1 +1,6 @@
 __pycache__/
+
+data/
+!.gitkeep
+*.DS_Store
+
