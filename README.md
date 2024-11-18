@@ -22,5 +22,5 @@ The performance of different polynomial bases will be tested on:
 - [x] Test the implementation based on accuracy, parameter count, and completion time:
     - [x] Using the **MNIST** dataset.
     - [x] On **interpolation** tasks.
-- [ ] Add Different layer Combining Functions
+- [x] Add Different Layer Combining Functions
 
