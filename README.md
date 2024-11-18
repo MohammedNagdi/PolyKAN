@@ -21,5 +21,6 @@ The performance of different polynomial bases will be tested on:
 - [x] Implement a general method to wrap different orthogonal polynomial basis functions within KAN.
 - [x] Test the implementation based on accuracy, parameter count, and completion time:
     - [x] Using the **MNIST** dataset.
-    - [ ] On **interpolation** tasks.
+    - [x] On **interpolation** tasks.
+- [ ] Add Different layer Combining Functions
 
